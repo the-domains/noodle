@@ -1,7 +1,7 @@
 name: noodle
 favicon: null
-layout_spectrum: 0.3166967066936195
-typography_spectrum: 0.51658
+layout_spectrum: 0.7621
+typography_spectrum: 0.51002
 title: instamagrams
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.16554334620013833
+  brandStrength: 0.3125
   lightness: 0.9855993208475411
   saturation: 0.836426499299705
   rhythmicContrast: 0.2831088996026665
