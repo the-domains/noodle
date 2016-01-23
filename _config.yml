@@ -2,6 +2,7 @@ name: noodle
 favicon: null
 layout_spectrum: 0.3166967066936195
 typography_spectrum: 0.51658
+title: instamagrams
 cta:
   domain: null
   bucket: null
